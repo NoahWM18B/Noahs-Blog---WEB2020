@@ -1,7 +1,7 @@
 +++
 headless = true
 icon = ""
-logo = ""
+logo = "/media/fussball.png"
 image = "/media/web2020.png"
 color = ""
 +++
