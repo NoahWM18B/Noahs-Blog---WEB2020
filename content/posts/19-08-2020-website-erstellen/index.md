@@ -1,5 +1,5 @@
 +++
-title = "19.08.2020 - Website erstellen"
+title = "Website erstellen"
 date = "2020-08-19"
 draft = false
 pinned = false
