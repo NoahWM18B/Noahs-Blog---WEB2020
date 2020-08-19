@@ -3,6 +3,7 @@ title = "Wie möchte ich arbeiten und was möchte ich lernen?"
 date = "2020-08-12"
 draft = false
 pinned = false
+image = "web2020.png"
 +++
 
 
