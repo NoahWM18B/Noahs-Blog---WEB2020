@@ -6,6 +6,8 @@ pinned = false
 image = "ideen-web.png"
 description = "Zu dritt haben wir uns im Schulhaus und rundherum umgesehen und nach Problemen gesucht, die wir im Fach WEB lösen könnten. Dabei gingen wir auch auf Leute zu und fragten sie nach ihrer Ansicht."
 +++
+![](ideen-web.png)
+
 Im Rahmen der WEB-Lektionen vom 26.08.2020 habe ich mit meinen Gruppenmitgliedern **Sven und Mario** nach **Problemen** in unserem Umfeld gesucht, die wir **lösen** könnten. Wir gingen dabei durch und um das Schulhaus und gingen ins Wankdorf Center. 
 
 Nach unserer Suche nach Ideen kamen wir zu folgenden Ergebnissen:
