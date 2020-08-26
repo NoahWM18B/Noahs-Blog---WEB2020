@@ -10,7 +10,7 @@ description = "Zu dritt haben wir uns im Schulhaus und rundherum umgesehen und n
 
 Im Rahmen der WEB-Lektionen vom 26.08.2020 habe ich mit meinen Gruppenmitgliedern **Sven und Mario** nach **Problemen** in unserem Umfeld gesucht, die wir **lösen** könnten. Wir gingen dabei durch und um das Schulhaus und gingen ins Wankdorf Center. 
 
-Nach unserer Suche nach Ideen kamen wir zu folgenden Ergebnissen:
+Nach unserer Suche nach Ideen kamen wir zu folgenden **Ergebnissen**:
 
 * **Sportevents** - Eine Plattform ,auf denen die wichtigsten Sportevents zu sehen sind, wo sie übertragen werden oder wo es ein Ticket zu kaufen gibt. Dabei liegt unser Fokus vorwiegend auf dem Thema Fussball und den Berner Young Boys.
 * **Sportwetten** - Sportwetten haben verschiedene Quoten. Doch wie könnte man garantiert Gewinn machen?
