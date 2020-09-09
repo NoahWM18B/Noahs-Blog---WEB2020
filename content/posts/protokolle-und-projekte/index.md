@@ -4,6 +4,7 @@ date = "2020-09-09"
 draft = false
 pinned = false
 image = "protokoll-2.jpg"
+description = "Wie kommen Projekte und Protokolle zusammen? Was muss ich beachten?"
 +++
 ![](protokoll.png)
 
