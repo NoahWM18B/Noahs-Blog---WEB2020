@@ -4,7 +4,7 @@ date = "2020-08-26"
 draft = false
 pinned = false
 image = "probleme.jpg"
-description = "Zu dritt haben wir uns im Schulhaus und rundherum umgesehen und nach Problemen gesucht, die wir im Fach WEB lösen könnten. Dabei gingen wir auch auf Leute zu und fragten sie nach ihrer Ansicht."
+description = "Zu dritt haben wir uns im Schulhaus und rundherum umgesehen und nach Problemen gesucht, die wir im Fach WEB lösen könnten. "
 +++
 ![https://www.google.com/url?sa=i&url=http%3A%2F%2Finnovationsmanagement.ideeologen.de%2Fideengenerierung%2Fideen&psig=AOvVaw1xFoJm8wsPaMatf2XWK4fN&ust=1598538343183000&source=images&cd=vfe&ved=0CAkQjhxqFwoTCIiPn8SJuesCFQAAAAAdAAAAABAD](probleme.jpg)
 
