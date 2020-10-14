@@ -3,10 +3,10 @@ title = "Protokolle und Projekte"
 date = "2020-09-09"
 draft = false
 pinned = false
-image = "protokoll-2.jpg"
+image = "bild-protokoll.png"
 description = "Wie kommen Projekte und Protokolle zusammen? Was muss ich beachten?"
 +++
-![](protokoll.png)
+![](bild-protokoll.png)
 
 **Was muss in einem Protokoll sein?**
 
