@@ -4,6 +4,7 @@ date = "2020-08-19"
 draft = false
 pinned = false
 image = "microsoftteams-image.png"
+description = "Wir sollten eine Website für einen Blumenladen kreieren. Dazu haben wir eigene Fotos aus der Umgebung benutzt."
 +++
 ![Blume aus dem Casa Wankdorf](microsoftteams-image.png)
 
