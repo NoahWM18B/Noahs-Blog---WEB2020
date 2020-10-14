@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/fussball.png"
-logo = "/media/fussball.png"
+icon = "/media/n.png"
+logo = "/media/n.png"
 image = "/media/web2020.png"
 color = ""
 +++
