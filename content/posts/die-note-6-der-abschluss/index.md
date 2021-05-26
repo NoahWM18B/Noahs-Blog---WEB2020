@@ -1,14 +1,14 @@
 +++
-title = "Die Note 6! - der Abschluss"
+title = "Der Abschluss"
 date = "2021-05-26"
 draft = false
 pinned = false
 image = "dreipol2.png"
 description = "AM 26.05.2021 kamen wir mit Marco zusammen um einen Rück- und einen Ausblick zu besprechen."
 +++
-Unsere Gruppe wollte die Note des Semesters noch besprechen. Wir finden, dass die Note 6.0 angemessen zu unseren Leistungen passt.
+Wir hatten am 26.05.2021 ein Rück- und Ausblicksgespräch mit Marco.
 
-Um diese zu erreichen, wollte Herr Jakob, dass wir den Prozess unserer App, bis sie im AppStore landet aufschreiben, um zu sehen, wann unser Produkt (FussballApp) kommerziell verwertbar ist und Marco sie sich anschauen kann.
+Der Prozess unserer App, bis sie im AppStore landet aufschreiben, um zu sehen, wann unser Produkt (FussballApp) kommerziell verwertbar ist und Marco sie sich anschauen kann.
 
 1. Unsere App
 
